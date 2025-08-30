@@ -1,0 +1,14 @@
+@import "tailwindcss/preflight.css" layer(base);
+
+p {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+h1 {
+    font-family: "Freedoka", sans-serif;
+    font-weight: 400;
+}
+
+#brand, #menu {
+    font-family: "Freedoka", sans-serif;
+}
